@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1777540731 source:c:\users\flold\onedrive\bureau\projet poo\uttt\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"main.h"
+	"Plateau.h"
+
+1776766842 c:\users\flold\onedrive\bureau\projet poo\uttt\main.h
+	<string>
+
+1777540239 c:\users\flold\onedrive\bureau\projet poo\uttt\include\plateau.h
+	"../main.h"
+	<vector>
+
+1777978595 source:c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"main.h"
+	"Plateau.h"
+	<vector>
+	"MCTS.h"
+
+1777551337 c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\main.h
+	<string>
+
+1777562736 c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\include\plateau.h
+	"../main.h"
+	<vector>
+
+1777996239 source:c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\src\mcts.cpp
+	"MCTS.h"
+	<cmath>
+	<cstring>
+	<chrono>
+	<iostream>
+	<vector>
+	<iomanip>
+
+1777971074 c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\include\mcts.h
+	"Plateau.h"
+
+1777966931 c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\include\node.h
+	"Plateau.h"
+	<vector>
+
+1777969231 source:c:\users\rarap\onedrive\documents\cours\informatique\a3\c++\uttt\uttt\src\node.cpp
+	"Node.h"
+	<cmath>
+	<cstdlib>
+
